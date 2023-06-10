@@ -117,8 +117,8 @@ Step:5 End the program with endmodule. Step:6 Run the program and choose RTL vie
 ### PROGRAM 
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: S.PRADEEP
-RegisterNumber: 212222100034
+Developed by: RATHISH KUMAR C
+RegisterNumber: 212222100043
 ```
 ### SR FlipFlop
 
